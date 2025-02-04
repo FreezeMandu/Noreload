@@ -29,6 +29,8 @@ Blocks.mendProjector.reload = 140
 Blocks.mendProjector.healPercent = 16
 Blocks.forceProjector.shieldHealth = 1200
 Blocks.forceProjector.cooldownNormal = 1.3
+Blocks.overdriveProjector.range = 120
+Blocks.overdriveProjector.speedBoost = 3.0
 
 Blocks.coreShard.itemCapacity = 20000
 Blocks.coreFoundation.itemCapacity = 40000
