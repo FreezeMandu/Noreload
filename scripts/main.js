@@ -19,6 +19,13 @@ Blocks.mechanicalDrill.drillTime = 100
 Blocks.conveyor.speed = 0.06
 Blocks.conveyor.health = 60
 Blocks.copperWall.health = 2000
+Blocks.mender.range = 65
+Blocks.mender.reload = 100
+Blocks.mender.healPercent = 8
+Blocks.mendProjector.range = 140
+Blocks.mendProjector.reload = 140
+Blocks.mendProjector.healPercent = 16
+
 Blocks.coreShard.itemCapacity = 20000
 Blocks.coreFoundation.itemCapacity = 40000
 Blocks.coreNucleus.itemCapacuty = 60000
