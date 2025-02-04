@@ -39,3 +39,5 @@ Blocks.coreFoundation.itemCapacity = 40000
 Blocks.coreNucleus.itemCapacuty = 60000
 Blocks.coreShard.health = 6000
 Blocks.coreFoundation.health = 6000
+
+Blocks.steamGanerator.powerProduction = 12
