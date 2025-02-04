@@ -31,6 +31,8 @@ Blocks.forceProjector.shieldHealth = 1200
 Blocks.forceProjector.cooldownNormal = 1.3
 Blocks.overdriveProjector.range = 120
 Blocks.overdriveProjector.speedBoost = 3.0
+Blocks.shockMine.damage = 75
+Blocks.shockMine.health = 200
 
 Blocks.coreShard.itemCapacity = 20000
 Blocks.coreFoundation.itemCapacity = 40000
