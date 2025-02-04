@@ -13,6 +13,8 @@ UnitTypes.gamma.mineSpeed = 400
 UnitTypes.gamma.itemCapacity = 1000
 UnitTypes.gamma.health = 270
 
+UnitTypes.mono.mineSpeed = 6.5
+
 Blocks.duo.reload = 0.5
 Blocks.arc.reload = 9.0
 Blocks.mechanicalDrill.drillTime = 100
