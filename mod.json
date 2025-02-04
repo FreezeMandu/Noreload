@@ -1,8 +1,9 @@
 {
-  "displayName": "No Reloading",
-  "name": "noreloading",
-  "version": 0.4,
-  "minGameVersion": 145,
+  "displayName": "No Reload",
+  "name": "noreload",
+  "version": 0.5,
+  "minGameVersion": 146,
   "author": "Mandu",
-  "hidden": false
+  "hidden": false,
+  "description": "Tier 1, 2 blocks buff mod"
 }
