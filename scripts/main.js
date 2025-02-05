@@ -21,6 +21,7 @@ Blocks.mechanicalDrill.drillTime = 100
 Blocks.conveyor.speed = 0.06
 Blocks.conveyor.health = 60
 Blocks.copperWall.health = 2000
+Blocks.copperWall.absorbLasers = true
 Blocks.mender.health = 140
 Blocks.mender.range = 65
 Blocks.mender.reload = 100
@@ -42,4 +43,4 @@ Blocks.coreNucleus.itemCapacuty = 60000
 Blocks.coreShard.health = 6000
 Blocks.coreFoundation.health = 6000
 
-Blocks.steamGanerator.powerProduction = 12
+Blocks.steamGenerator.powerProduction = 12
